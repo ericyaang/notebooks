@@ -7,7 +7,7 @@
 | [Using mlflow](https://github.com/ericyaang/forecasting-sales-for-a-restaurant/blob/main/notebooks/mlflow.ipynb) | A notebook for forecasting sales for a restaurant using mlflow. |
 | [CV for ts](https://github.com/ericyaang/forecasting-sales-for-a-restaurant/blob/main/notebooks/train_cv.ipynb) | A notebook that explores time series forecasting with cross-validation. |
 | [Nano gpt](https://github.com/ericyaang/nanoGPT) | A repository containing a minimalist implementation of GPT-2, called NanoGPT. |
-| Predicting number of views | A notebook that predicts the number of views for boat listings using various machine learning models. |
+| [Predicting number of views](https://github.com/ericyaang/mykagglenbs/blob/main/boat-listings.ipynb) | A notebook that predicts the number of views for boat listings using various machine learning models. |
 | [Predict the next 12 hours of traffic flow in a U.S. metropolis](https://github.com/ericyaang/mykagglenbs/blob/main/xgboost-baseline.ipynb) | A notebook that predicts the next 12 hours of traffic flow in a U.S. metropolis using XGBoost. |
 | [Employee attrition segmentation](https://github.com/ericyaang/employee-attrition/blob/main/segment_employee.ipynb) | A notebook that explores employee attrition data using clustering and segmentation techniques. |
 | [Employee attrition prediction report](https://github.com/ericyaang/employee-attrition/blob/main/employe_attrition.ipynb) | A notebook that predicts employee attrition using machine learning models. |
