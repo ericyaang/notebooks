@@ -11,4 +11,5 @@
 | [Predict the next 12 hours of traffic flow in a U.S. metropolis](https://github.com/ericyaang/mykagglenbs/blob/main/xgboost-baseline.ipynb) | A notebook that predicts the next 12 hours of traffic flow in a U.S. metropolis using XGBoost. |
 | [Employee attrition segmentation](https://github.com/ericyaang/employee-attrition/blob/main/segment_employee.ipynb) | A notebook that explores employee attrition data using clustering and segmentation techniques. |
 | [Employee attrition prediction report](https://github.com/ericyaang/employee-attrition/blob/main/employe_attrition.ipynb) | A notebook that predicts employee attrition using machine learning models. |
-| [Employee attrition EDA](https://github.com/ericyaang/employee-attrition/blob/main/EDA.ipynb) | A notebook that performs exploratory data analysis on employee attrition data. |
+| [Employee attrition EDA](https://github.com/ericyaang/employee-attrition/blob/main/EDA.ipynb) | A notebook that performs exploratory data analysis on employee attrition data. | 
+|[Recipe Traffic Prediction](https://github.com/ericyaang/recipe-site-traffic) | Predict high-traffic recipes with 82% precision using logistic regression and user personas for homepage optimization. |
