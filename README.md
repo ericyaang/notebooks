@@ -1,5 +1,7 @@
 # Notebooks
 
+A repository of my data science notebooks: sales analysis, AI photo generation, traffic forecasting, and employee attrition studies and more.
+
 | Project Name | Description |
 | --- | --- |
 | [T-shirt sales](https://github.com/ericyaang/bibix)  | A project exploring t-shirt sales.|
