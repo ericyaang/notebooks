@@ -4,6 +4,8 @@ A repository of my data science notebooks: sales analysis, AI photo generation, 
 
 | Project Name | Description |
 | --- | --- |
+|[Customer churn is driven by price sensitivity?](https://github.com/ericyaang/bcg-churn/blob/main/notebooks/0_Exploration%20with%20Price%20Sentitivity.ipynb) | This notebook explores the impact of price sensitivity on customer churn at PowerCo, using data analysis to understand the relationship between pricing strategies and customer retention. |
+|[Modeling Customer churn](https://github.com/ericyaang/bcg-churn/blob/main/notebooks/4_Submission.ipynb) | This notebook focuses on developing a model to predict customer churn and assesses its subsequent impact on revenue.|
 | [T-shirt sales](https://github.com/ericyaang/bibix)  | A project exploring t-shirt sales.|
 | [Generating_AI Photos Of You with Leap](https://github.com/ericyaang/notebooks/blob/main/Generating_AI_Photos_Of_You.ipynb) | A notebook that demonstrates how to generate AI photos of yourself using the Leap Motion controller. |
 | [Using mlflow](https://github.com/ericyaang/forecasting-sales-for-a-restaurant/blob/main/notebooks/mlflow.ipynb) | A notebook for forecasting sales for a restaurant using mlflow. |
